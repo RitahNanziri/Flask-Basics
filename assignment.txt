@@ -1,0 +1,4 @@
+What is Flask.
+Advantages and Disadvantages of Flasks.
+Prerequisities for Flasks.
+Discussion on variable names in flasks.
